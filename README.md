@@ -15,6 +15,8 @@ This project helps users sort through github profiles and save promising candida
 None      
 
 ## Installation
+clone the repo then use this code in the terminal.
+
 <pre> <code>```npm i```</code> </pre>
 
 <pre> <code>```npm start ```</code> </pre>
